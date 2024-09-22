@@ -10,6 +10,10 @@ a {
     color: inherit;
 }
 
+a:hover {
+  text-decoration: underline; /* Add underline when hovered */
+}
+
 nav {
     display: flex;
     width: 100%;
